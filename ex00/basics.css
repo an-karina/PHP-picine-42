@@ -1,0 +1,41 @@
+*{
+	background-color: pink;
+	box-sizing: border-box;
+}
+
+h1{
+	color: white;
+	font-size: 3vw;
+	text-align: center;
+}
+.images{
+	display: inline-block;
+	height: 30vw;
+	padding: 1vw;
+}
+
+a:link{
+	text-decoration: none;
+	color: white;
+}
+
+a:visited{
+	color: white;
+}
+
+a:hover{
+	color: rgb(170, 168, 168);}
+
+.shop_link{
+	margin: 9vw;
+}
+
+.center{
+	text-align: center;
+}
+
+.name{
+	text-align: right;
+	font-style:italic;
+	font-family: monospace;
+}
