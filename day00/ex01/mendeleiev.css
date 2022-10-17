@@ -1,0 +1,90 @@
+body{
+	background-color:rgb(235, 203, 193);
+}
+
+table{
+	empty-cells: hide;
+	margin: 1vw;
+	clear: left;
+}
+
+h1{
+	text-align: center;
+}
+
+img{
+	height: 30vw;
+	margin: 1vw;
+	float: left;
+}
+
+.box td, th{
+	width: 5vw;
+	height: 5vw;
+	text-align: center;
+	position: relative;
+}
+
+.text{
+	font-size: 1.5vw;
+	margin: 2.5vw;
+}
+
+.bold{
+	font-weight: bold;
+	font-size: 1.5vw;
+}
+
+.lower_left_corner{
+	font-size: 1.1vw;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+}
+
+.top_right_corner{
+	font-size: 1.1vw;
+	position: absolute;
+	top: 0;
+	right: 0;
+}
+
+.nonmetals{
+	background-color: rgb(104, 169, 104);
+}
+
+.lanthanides{
+	background-color: rgb(117, 97, 82);
+}
+
+.alkali_metals{
+	background-color: rgb(138, 98, 61);
+}
+
+.alkali_non-metals{
+	background-color: rgb(189, 148, 110);
+}
+
+.semimetals{
+	background-color: rgb(59, 123, 104);
+}
+
+.noble_gases{
+	background-color: rgb(138, 107, 167);
+}
+
+.post-transition_metals{
+	background-color: rgb(78, 88, 230);
+}
+
+.transition_metals{
+	background-color: rgb(160, 70, 70);
+}
+
+.nothing{
+	background-color: rgba(103, 95, 95, 0.709);
+}
+
+.actinides{
+	background-color: rgba(194, 80, 152, 0.877);
+}
