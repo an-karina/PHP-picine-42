@@ -1,0 +1,41 @@
+body{
+	background-color: rgb(69, 67, 67);
+}
+
+.header{
+	width: 84vw;
+	height: 8vw;
+	background-color: rgba(145,145,145,255);
+	border-radius: 1vw;
+	margin: auto;
+	position: relative;
+}
+
+.name{
+	width: 30vw;
+	border-radius: 1vw;
+	margin: auto;
+}
+
+.loupe{
+	position: absolute;
+	width: 20%;
+	right: 5%;
+}
+
+.close{
+	position: absolute;
+	right: 0.8%;
+	bottom: 3.2%;
+}
+
+.reload{
+	position: absolute;
+	width: 1.8%;
+	right: 0.8%;
+	top: 3.2%;
+}
+
+
+
+
